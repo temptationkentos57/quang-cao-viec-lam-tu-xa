@@ -5,3 +5,5 @@ built/
 .env
 logs/
 dist/
+temp/
+*.log
