@@ -18,3 +18,9 @@ coverage/*.info
 coverage/*.lcov
 # Ignore test output files
 coverage/*.txt
+# Ignore temporary files
+*.bak
+*.swp
+# Ignore IDE settings
+.idea/
+.vscode/
