@@ -21,6 +21,7 @@ coverage/*.txt
 # Ignore temporary files
 *.bak
 *.swp
+*.orig
 # Ignore IDE settings
 .idea/
 .vscode/
