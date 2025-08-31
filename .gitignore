@@ -4,5 +4,4 @@ node_modules/
 built/
 .env
 logs/
-temp/
 dist/
