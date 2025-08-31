@@ -22,6 +22,7 @@ coverage/*.txt
 *.bak
 *.swp
 *.orig
+*.pid
 # Ignore IDE settings
 .idea/
 .vscode/
