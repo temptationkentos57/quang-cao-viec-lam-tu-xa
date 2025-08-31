@@ -8,3 +8,4 @@ dist/
 temp/
 *.log
 *.out
+coverage/
