@@ -17,3 +17,5 @@ coverage/
 coverage/coverage-*.json
 coverage/*.info
 coverage/*.lcov
+# Ignore test output files
+coverage/*.txt
