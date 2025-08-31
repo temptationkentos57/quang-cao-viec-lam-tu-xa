@@ -30,3 +30,8 @@ coverage/*.txt
 .vscode/
 # Ignore cache directory
 .cache/
+# Ignore all temporary files
+*.aux
+*.tix
+*.glog
+*.fdb_latexmk
