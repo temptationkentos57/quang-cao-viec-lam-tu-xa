@@ -26,3 +26,5 @@ coverage/*.txt
 # Ignore IDE settings
 .idea/
 .vscode/
+# Ignore cache directory
+.cache/
