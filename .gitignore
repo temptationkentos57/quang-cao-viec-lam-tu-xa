@@ -15,3 +15,5 @@ coverage/
 
 # Ignore Jest coverage reports
 coverage/coverage-*.json
+coverage/*.info
+coverage/*.lcov
