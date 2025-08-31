@@ -10,3 +10,4 @@ temp/
 *.out
 coverage/
 .DS_Store
+*.tmp
